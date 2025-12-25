@@ -1,4 +1,4 @@
-# ![self introduction]([https://xxx](https://raw.githubusercontent.com/bonbonDori/bonbonDori/refs/heads/main/assets/banner.png))
+# ![self introduction](https://raw.githubusercontent.com/bonbonDori/bonbonDori/refs/heads/main/assets/banner.png)
 
 ### 👋 Abstract 'ME'
 
@@ -6,7 +6,7 @@ Female. Software Developer. Amateur designer.
 I am interested in many subjects and technologies. However, since I am an extremely low-energy person and always get drawn in by new things, I am always "in the process of learning".
 
 <p>
-<img width="300" align='right' src="[https://xxxx](https://raw.githubusercontent.com/bonbonDori/bonbonDori/refs/heads/main/assets/in-first.png)">
+<img width="300" align='right' src="https://raw.githubusercontent.com/bonbonDori/bonbonDori/refs/heads/main/assets/in-first.png">
 </p>
 
 ### 😄 Pronouns

@@ -1,16 +1,22 @@
-## Hi there 👋
+# ![self introduction](https://xxx)
 
-<!--
-**bonbonDori/bonbonDori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Abstract 'ME'
 
-Here are some ideas to get you started:
+Female. Software Developer. Amateur designer.
+I am interested in many subjects and technologies. However, since I am an extremely low-energy person and always get drawn in by new things, I am always "in the process of learning".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img width="300" align='right' src="https://xxxx">
+</p>
+
+### 😄 Pronouns
+
+She/Her
+
+### 📫 How to reach me?
+
+be arranging...
+
+### 🌱 What do I do
+
+During the learning process, I am accustomed to taking a lot of notes and also have many "demo" projects. Once they are properly organized, I will post them here ^^

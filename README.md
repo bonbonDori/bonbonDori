@@ -1,4 +1,4 @@
-# ![self introduction](https://raw.githubusercontent.com/bonbonDori/bonbonDori/refs/heads/main/assets/banner.png)
+# ![self introduction](https://raw.githubusercontent.com/bonbonDori/bonbonDori/refs/heads/main/assets/updated-banner.png)
 
 ### 👋 Abstract 'ME'
 
